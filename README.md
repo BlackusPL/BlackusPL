@@ -10,6 +10,11 @@
 </br><br>
 # Youtube Latest Videos
 <!-- YOUTUBE:START -->
+- [Obrońca Tydzień 16 | CS:GO RipTide | by BlackusPL &amp; Lolowskyy](https://www.youtube.com/watch?v=fGQCLrblsE0)
+- [Obrońca Tydzień 15 | CS:GO RipTide | by BlackusPL &amp; Lolowskyy](https://www.youtube.com/watch?v=6WH13uG0i6Q)
+- [Obrońca Tydzień 14 | CS:GO RipTide | by BlackusPL &amp; KsiloxFlame](https://www.youtube.com/watch?v=TwMbtkU3wWg)
+- [Obrońca Tydzień 13 | CS:GO RipTide | by BlackusPL &amp; Lolowskyy](https://www.youtube.com/watch?v=X3-qovueB-U)
+- [Obrońca Tydzień 12 | CS:GO RipTide | by BlackusPL &amp; Lolowskyy](https://www.youtube.com/watch?v=mDouGExjqEU)
 <!-- YOUTUBE:END -->
 </br>
 
