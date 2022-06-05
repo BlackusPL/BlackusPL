@@ -1,4 +1,4 @@
-## Welcome Alive Warriors
+## Welcome Warriors
 - [ ] More soon
 <br>
 
