@@ -1,13 +1,8 @@
 ## Welcome Warriors
-- [ ] More soon
-<br>
-
 [![GitHub BlackusPL](https://img.shields.io/github/followers/BlackusPL?color=26a0da&label=GitHub&style=for-the-badge&logo=github)](https://github.com/BlackusPL)
 [![Youtube](https://img.shields.io/badge/Youtube-BlackusPL-26a0da?style=for-the-badge&logo=youtube)](https://youtube.com/c/BlackusPL)
 [![Discord Server](https://img.shields.io/badge/Discord-Server-26a0da?style=for-the-badge&logo=Discord)](https://discord.link/WarriorsFrontline)
 [![My Website](https://img.shields.io/badge/My%20Website-Here-26a0da?style=for-the-badge&logo=https://trigonometrical-sup.000webhostapp.com/wp-content/uploads/2021/11/b3a5359531eff2ede4a19f224cf3540fada9ad3b_full-removebg-preview.png)](https://blackuspl.github.io/DarknessAir)
-
-</br><br>
 # Youtube Latest Videos
 <!-- YOUTUBE:START -->
 - [Obrońca Tydzień 16 | CS:GO RipTide | by BlackusPL &amp; Lolowskyy](https://www.youtube.com/watch?v=fGQCLrblsE0)
