@@ -13,5 +13,5 @@
 <!-- YOUTUBE:END -->
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlackusPL&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true"/>\
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackusPL&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&card_width=445"/>
+<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=BlackusPL&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true"/>\
+<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=BlackusPL&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&card_width=445"/>
