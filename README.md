@@ -10,9 +10,9 @@
 -->
 <h1 align="center">Discord, Steam & Osu!</h1>
 
-<p align="center"><a href="https://discord.com/users/410243501494894603"><img src="https://lanyard.cnrad.dev/api/410243501494894603?idleMessage=https%3A%2F%2Fblackuspl.github.io%2FDarknessAir" /></a>
-<a href="https://steamcommunity.com/id/BIHPLYT"><img src="https://www.steamidfinder.com/signature/76561198884549327.png" /></a>
-<a href="https://osu.ppy.sh/users/Black%20in%20helmet"><img src="https://osu-sig.vercel.app/card?user=Black+in+helmet&mode=std&lang=en&animation=true&mini=true" width="410" /></a></p>
+<p align="center"><a href="https://discord.com/users/410243501494894603"><img src="https://lanyard.cnrad.dev/api/410243501494894603?idleMessage=https%3A%2F%2Fblackuspl.github.io%2FDarknessAir" /></a></p>
+<p align="center"><a href="https://steamcommunity.com/id/BIHPLYT"><img src="https://www.steamidfinder.com/signature/76561198884549327.png" /></a></p>
+<p align="center"><a href="https://osu.ppy.sh/users/Black%20in%20helmet"><img src="https://osu-sig.vercel.app/card?user=Black+in+helmet&mode=std&lang=en&animation=true&mini=true" width="410" /></a></p>
 
 <h1 align="center">Youtube Latest Videos</h1>
 <!-- YOUTUBE:START --><table align="center"><tr><td><a href="https://www.youtube.com/watch?v=lrU1UFblgrs"><img width="140px" src="https://i.ytimg.com/vi/lrU1UFblgrs/mqdefault.jpg"></a></td>
