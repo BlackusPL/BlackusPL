@@ -4,7 +4,7 @@
 [![GitHub BlackusPL](https://img.shields.io/github/followers/BlackusPL?color=26a0da&label=GitHub&style=for-the-badge&logo=github)](https://github.com/BlackusPL)
 [![Youtube](https://img.shields.io/badge/Youtube-BlackusPL-26a0da?style=for-the-badge&logo=youtube)](https://youtube.com/c/BlackusPL)
 [![Discord Server](https://img.shields.io/badge/Discord-Server-26a0da?style=for-the-badge&logo=Discord)](https://discord.link/WarriorsFrontline)
-[![My Website](https://img.shields.io/badge/My%20Website-Here-26a0da?style=for-the-badge&logo=https://trigonometrical-sup.000webhostapp.com/wp-content/uploads/2021/11/b3a5359531eff2ede4a19f224cf3540fada9ad3b_full-removebg-preview.png)](https://blackuspl.github.io/DarknessAir)
+[![My Website](https://img.shields.io/badge/My%20Website-Here-26a0da?style=for-the-badge&logo=https://blackuspl.github.io/BDPlugins/icon.png)](https://blackuspl.github.io/)
 </div>
 <!--
 <h2 align="center">BlackusPL</h2>
@@ -15,7 +15,7 @@
 
 <div><a href="https://discord.com/users/410243501494894603"><img src="https://lanyard.cnrad.dev/api/410243501494894603?idleMessage=https%3A%2F%2Fblackuspl.github.io%2FDarknessAir" width="32%" /></a>
 <a align="center" href="https://steamcommunity.com/id/BIHPLYT"><img src="https://www.steamidfinder.com/signature/76561198884549327.png" width="32%" /></a>
-<a align="right" href="https://osu.ppy.sh/users/Black%20in%20helmet"><img src="https://osu-sig.vercel.app/card?user=Black+in+helmet&mode=std&lang=en&animation=true&mini=true" width="32%" /></a></div>
+<a align="right" href="https://osu.ppy.sh/users/BlackusPL"><img src="https://osu-sig.vercel.app/card?user=BlackusPL&mode=std&lang=en&animation=true&mini=true" width="32%" /></a></div>
 
 <h1 align="center">Youtube Latest Videos</h1>
 <!-- YOUTUBE:START --><table align="center"><tr><td><a href="https://www.youtube.com/watch?v=lrU1UFblgrs"><img width="140px" src="https://i.ytimg.com/vi/lrU1UFblgrs/mqdefault.jpg"></a></td>
