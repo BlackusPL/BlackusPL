@@ -29,5 +29,6 @@
 
 <h1 align="center">Github Stats</h1>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BlackusPL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BlackusPL&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackusPL&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&card_width=445"/></p>
