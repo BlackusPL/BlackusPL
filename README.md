@@ -5,6 +5,7 @@
 [![Youtube](https://img.shields.io/badge/Youtube-BlackusPL-26a0da?style=for-the-badge&logo=youtube)](https://youtube.com/c/BlackusPL)
 [![Discord Server](https://img.shields.io/badge/Discord-Server-26a0da?style=for-the-badge&logo=Discord)](https://discord.link/WarriorsFrontline)
 [![My Website](https://img.shields.io/badge/My%20Website-Here-26a0da?style=for-the-badge&logo=https://blackuspl.github.io/BDPlugins/icon.png)](https://blackuspl.github.io/)
+<a rel="me" href="https://social.vivaldi.net/@BlackusPL">Mastodon</a>
 </div>
 <!--
 <h2 align="center">BlackusPL</h2>
