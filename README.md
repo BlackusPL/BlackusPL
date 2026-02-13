@@ -3,8 +3,8 @@
 
 [![GitHub BlackusPL](https://img.shields.io/github/followers/BlackusPL?color=26a0da&label=GitHub&style=for-the-badge&logo=github)](https://github.com/BlackusPL)
 [![Youtube](https://img.shields.io/badge/Youtube-BlackusPL-26a0da?style=for-the-badge&logo=youtube)](https://youtube.com/c/BlackusPL)
-[![Discord Server](https://img.shields.io/badge/Discord-Server-26a0da?style=for-the-badge&logo=Discord)](https://discord.link/WarriorsFrontline)
-[![My Website](https://img.shields.io/badge/My%20Website-Here-26a0da?style=for-the-badge&logo=https://blackuspl.github.io/BDPlugins/icon.png)](https://blackuspl.github.io/)
+[![Discord Server](https://img.shields.io/badge/Discord-Server-26a0da?style=for-the-badge&logo=Discord)](discord.com/invite/4P8cAWqkqY)
+[![My Website](https://img.shields.io/badge/My%20Website-Here-26a0da?style=for-the-badge&logo=Homepage)](https://blackuspl.github.io/)
 </div>
 <!--
 <h2 align="center">BlackusPL</h2>
@@ -13,15 +13,15 @@
 -->
 <h1 align="center">Discord, Steam & Osu!</h1>
 
-<div><a href="https://discord.com/users/410243501494894603"><img src="https://lanyard.cnrad.dev/api/410243501494894603?idleMessage=https%3A%2F%2Fblackuspl.github.io%2FDarknessAir" width="32%" /></a>
-<a align="center" href="https://steamcommunity.com/id/BIHPLYT"><img src="https://www.steamidfinder.com/signature/76561198884549327.png" width="32%" /></a>
-<a align="right" href="https://osu.ppy.sh/users/BlackusPL"><img src="https://osu-sig.vercel.app/card?user=BlackusPL&mode=std&lang=en&animation=true&mini=true" width="32%" /></a></div>
+<div><a href="https://discord.com/users/410243501494894603"><img src="https://lanyard.cnrad.dev/api/410243501494894603?idleMessage=https%3A%2F%2Fblackuspl.github.io%2FDarknessAir" width="32%" alt="Discord miniprofile"/></a>
+<a align="center" href="https://steamcommunity.com/id/BIHPLYT"><img src="https://www.steamidfinder.com/signature/76561198884549327.png" width="32%" alt="Steam miniprofile"/></a>
+<a align="right" href="https://osu.ppy.sh/users/BlackusPL"><img src="https://osu-profile-stats.vercel.app/api/profile-stats/BlackusPL?playmode=osu&version=mini" width="32%" alt="Osu Stats"/></a></div>
 
 <h1 align="center">Github Stats</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BlackusPL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BlackusPL&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackusPL&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&card_width=445"/></p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=BlackusPL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BlackusPL&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true" alt="Stats" onerror="this.src='https://files.gamebanana.com/bitpit/banner_72036.jpg';" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackusPL&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&card_width=445" alt="My Top Langauges"/></p>
 
 <h1 align="center">Youtube Latest Videos</h1>
 <!-- YOUTUBE:START --><table align="center"><tr><td><a href="https://www.youtube.com/watch?v=lrU1UFblgrs"><img width="140px" src="https://i.ytimg.com/vi/lrU1UFblgrs/mqdefault.jpg"></a></td>
