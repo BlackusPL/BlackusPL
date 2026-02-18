@@ -19,9 +19,8 @@
 
 <h1 align="center">Github Stats</h1>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BlackusPL&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BlackusPL&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true" alt="Stats" onerror="this.src='https://files.gamebanana.com/bitpit/banner_72036.jpg';" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackusPL&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&card_width=445" alt="My Top Langauges"/></p>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=BlackusPL&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true&include_all_commits=true" alt="Stats" onerror="this.src='https://files.gamebanana.com/bitpit/banner_72036.jpg';" /></p>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BlackusPL&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&card_width=445" alt="My Top Langauges"/></p>
 
 <h1 align="center">Youtube Latest Videos</h1>
 <!-- YOUTUBE:START --><table align="center"><tr><td><a href="https://www.youtube.com/watch?v=lrU1UFblgrs"><img width="140px" src="https://i.ytimg.com/vi/lrU1UFblgrs/mqdefault.jpg"></a></td>
